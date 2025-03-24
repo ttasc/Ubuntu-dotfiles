@@ -52,8 +52,8 @@ gnome-terminal profile
     - sudo ubuntu-drivers devices
     - sudo apt install nvidia-driver-525
     NOTE: don't install "open" version
-- Turn off nvidia by Prime
-- Install auto-cpufreq
+- Turn off nvidia by Prime (sudo prime-select intel/nvidia)
+- Install tlp
 
 #############
 #  scripts  #
